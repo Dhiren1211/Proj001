@@ -12,8 +12,8 @@ export const person = {
   initials: "D",
   role: "Design engineer",
   /* Demo location */
-  location: "Bengaluru, India",
-  timezone: "Asia/Kolkata",
+  location: "Kathmandu, Nepal",
+  timezone: "Asia/Kathmandu",
   availability: "Available for select projects",
   email: "hello@dhiren.dev",
   intro:
@@ -189,7 +189,7 @@ export const capabilities = [
 
 export const about = {
   facts: [
-    ["Based", "Bengaluru, India"],
+    ["Based", "Kathmandu, Nepal"],
     ["Focus", "Design & engineering"],
     ["Experience", "Demo portfolio data"],
     ["Working", "Independent / collaborative"],
