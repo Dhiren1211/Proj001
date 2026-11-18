@@ -18,14 +18,23 @@ const plexMono = IBM_Plex_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Ellis Marlow — Design engineer",
+  title: "Dhiren Kathayat — Full-Stack Developer",
   description:
-    "Portfolio of Ellis Marlow, a design engineer in Lisbon building typographically considered interfaces and the systems behind them.",
-  keywords: ["design engineer", "portfolio", "interface design", "typography"],
-  authors: [{ name: "Ellis Marlow" }],
+    "Portfolio of Dhiren Kathayat, a full-stack developer building modern web applications, digital experiences, and scalable software solutions.",
+  keywords: [
+    "Dhiren Kathayat",
+    "full-stack developer",
+    "web developer",
+    "React developer",
+    "Next.js developer",
+    "software developer",
+    "portfolio",
+  ],
+  authors: [{ name: "Dhiren Kathayat" }],
   openGraph: {
-    title: "Ellis Marlow — Design engineer",
-    description: "Interfaces designed and built with a typographic conscience.",
+    title: "Dhiren Kathayat — Full-Stack Developer",
+    description:
+      "Building modern web applications and digital experiences with thoughtful design and clean engineering.",
     type: "website",
   },
 };
